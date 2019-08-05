@@ -1,0 +1,30 @@
+{
+  "name": "spectrosdk",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "big-json": "^2.0.2",
+    "busboy": "^0.3.0",
+    "cookie-parser": "~1.4.4",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "express-fileupload": "^1.1.4",
+    "file-system": "^2.2.2",
+    "hjs": "0.0.6",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "jsonfile": "^5.0.0",
+    "mongoose": "^5.5.11",
+    "morgan": "~1.9.1",
+    "node-datetime": "^2.1.2",
+    "nodemailer": "^6.2.1",
+    "simple-node-logger": "^18.12.22",
+    "simple-plist": "^1.0.0",
+    "socket.io": "^2.2.0",
+    "validator": "^11.0.0"
+  }
+}

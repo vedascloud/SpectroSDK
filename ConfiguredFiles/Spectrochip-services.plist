@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <array>
+    <string>metadata</string>
+    <dict>
+      <key>bundle-identifier</key>
+      <string>com.vedas.Spectrochip-services</string>
+      <key>AppName</key>
+      <string>Spectrochip-services</string>
+      <key>AppKey</key>
+      <string>1cgnbYUY31</string>
+      <key>SecretKey</key>
+      <string>6DoCgxc9MmnYDrtJ</string>
+      <key>AppStoreId</key>
+      <string>www.playsrote.Spectrochip-services.ipa</string>
+    </dict>
+  </array>
+</plist>
