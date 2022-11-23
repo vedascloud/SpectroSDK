@@ -24,7 +24,7 @@
     "nodemailer": "^6.2.1",
     "simple-node-logger": "^18.12.22",
     "simple-plist": "^1.0.0",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.5.0",
     "validator": "^11.0.0"
   }
 }
